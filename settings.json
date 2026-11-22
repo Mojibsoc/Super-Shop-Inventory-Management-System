@@ -1,0 +1,12 @@
+{
+    "profile_name": "abdul khalek",
+    "profile_email": "admin@inventory.com",
+    "system_title": "Super Shop Inventory Management",
+    "address": "Chittagong, Bangladesh",
+    "contact": "+880123456789",
+    "low_stock_limit": 10,
+    "currency": "BDT",
+    "language": "en",
+    "logo_url": "/logo.jpeg",
+    "avatar_url": ""
+}
